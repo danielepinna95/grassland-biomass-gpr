@@ -1,0 +1,29 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated
+models/*
+!models/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Imagery and large rasters (never commit satellite scenes)
+*.tif
+*.tiff
+*.SAFE/
+*.zip
+
+# OS
+.DS_Store
+._*
+
+# Field data (not public yet)
+data/*.csv

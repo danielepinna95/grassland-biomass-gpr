@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Grassland above-ground biomass estimation with Gaussian Process Regression (Sentinel-2 and PlanetScope)"
+authors:
+  - family-names: Pinna
+    given-names: Daniele
+    affiliation: University of Padova
+license: MIT
+preferred-citation:
+  type: article
+  title: "Optimising grassland above-ground biomass estimation for managed grasslands: a Gaussian process regression approach for Sentinel-2 and PlanetScope in Northern Italy"
+  authors:
+    - family-names: Pinna
+      given-names: Daniele
+    - family-names: Basso
+      given-names: Elena
+    - family-names: Pornaro
+      given-names: Cristina
+    - family-names: Pullanagari
+      given-names: Reddy
+    - family-names: Macolino
+      given-names: Stefano
+    - family-names: Pezzuolo
+      given-names: Andrea
+    - family-names: Marinello
+      given-names: Francesco
+  journal: "Precision Agriculture"
+  volume: 26
+  start: 98
+  year: 2025
+  doi: "10.1007/s11119-025-10298-2"
